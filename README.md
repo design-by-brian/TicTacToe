@@ -1,5 +1,5 @@
 # TicTacToe
-TicTacToe terminal game written in C++. Utilises my own implementation of a linked list.
+TicTacToe terminal game written in C. Utilises my own implementation of a linked list.
 
 To play game, run make command to compile code and create executable files.
 Run command "./TicTacToe settings.txt". settings.txt can be adjusted to change settings.
